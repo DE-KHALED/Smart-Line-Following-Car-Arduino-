@@ -25,7 +25,7 @@ KYS002 Smart Car Chassis
 📄 Documentation
 
 Full project documentation is available here:
-👉 [Project Documentation]()
+👉 [Project Documentation](https://github.com/DE-KHALED/Smart-Line-Following-Car-Arduino-/blob/main/docs/Smart_Line_Following_Car.pdf)
 
 🎥 Demo
 
